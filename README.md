@@ -1,1 +1,1 @@
-# solopool_blocks_and_miners_parser
+# Парсер для сайта Solopool, который парсит адреса кошельков во вкладках blocks и miners. Результат возвращает в txt файлы.
